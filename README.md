@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tejasdrolia Welcome to my Github Profile
 - 👀 I’m interested in Data Structures and Algorithms in Java
-- 🌱 I’m currently learning Flutter App Developmen
+- 🌱 I’m currently learning Flutter App Development and MERN tech stack
 - 📫 You can reach me at tejasdrolia22@gmail.com ...
 
 <!---
