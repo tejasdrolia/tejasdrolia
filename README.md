@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tejasdrolia Welcome to my Github Profile
-- 👀 I’m interested in Data Structures and Algorithms in Java
-- 🌱 I’m currently learning Flutter App Development and MERN tech stack
-- 📫 You can reach me at tejasdrolia22@gmail.com ...
+- 👀 I’m interested in enterprise development using Java.
+- 🌱 I’m eager on learning new things in technical field
+- 📫 You can reach me at drolia.tejas2000@gmail.com ...
 
 <!---
 tejasdrolia/tejasdrolia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
